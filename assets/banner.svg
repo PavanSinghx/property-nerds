@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="940px" height="367px" viewBox="0 0 940 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.4296875 0.3515625 252.429688 21.3515625 0 113"></polygon>
+        <polygon id="path-3" points="0 0 453 0 0 141"></polygon>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Copy" transform="translate(-250.000000, -1441.000000)">
+            <g id="banner" transform="translate(250.000000, 1441.000000)">
+                <rect id="Rectangle-17" stroke="#000000" x="15.5" y="10.5" width="908.242187" height="334"></rect>
+                <g id="Group-2-Copy" transform="translate(813.500000, 310.500000) rotate(-180.000000) translate(-813.500000, -310.500000) translate(687.000000, 254.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Group-2" mask="url(#mask-2)" stroke="#000000">
+                        <g transform="translate(141.710938, 20.417969) rotate(-210.000000) translate(-141.710938, -20.417969) translate(-236.289062, -104.582031)" id="Path-3">
+                            <path d="M0,1 L755.095358,1"></path>
+                            <path d="M0,9 L755.095358,9"></path>
+                            <path d="M0,17 L755.095358,17"></path>
+                            <path d="M0,25 L755.095358,25"></path>
+                            <path d="M0,33 L755.095358,33"></path>
+                            <path d="M0,41 L755.095358,41"></path>
+                            <path d="M0,49 L755.095358,49"></path>
+                            <path d="M0,57 L755.095358,57"></path>
+                            <path d="M0,65 L755.095358,65"></path>
+                            <path d="M0,73 L755.095358,73"></path>
+                            <path d="M0,81 L755.095358,81"></path>
+                            <path d="M0,89 L755.095358,89"></path>
+                            <path d="M0,97 L755.095358,97"></path>
+                            <path d="M0,105 L755.095358,105"></path>
+                            <path d="M0,113 L755.095358,113"></path>
+                            <path d="M0,121 L755.095358,121"></path>
+                            <path d="M0,129 L755.095358,129"></path>
+                            <path d="M0,137 L755.095358,137"></path>
+                            <path d="M0,145 L755.095358,145"></path>
+                            <path d="M0,153 L755.095358,153"></path>
+                            <path d="M0,161 L755.095358,161"></path>
+                            <path d="M0,169 L755.095358,169"></path>
+                            <path d="M0,177 L755.095358,177"></path>
+                            <path d="M0,185 L755.095358,185"></path>
+                            <path d="M0,193 L755.095358,193"></path>
+                            <path d="M0,201 L755.095358,201"></path>
+                            <path d="M0,209 L755.095358,209"></path>
+                            <path d="M0,217 L755.095358,217"></path>
+                            <path d="M0,225 L755.095358,225"></path>
+                            <path d="M0,233 L755.095358,233"></path>
+                            <path d="M0,241 L755.095358,241"></path>
+                            <path d="M0,249 L755.095358,249"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g mask="url(#mask-4)" id="Path-3" stroke="#000000">
+                        <g transform="translate(141.710938, 48.417969) rotate(-210.000000) translate(-141.710938, -48.417969) translate(-236.289062, -76.582031)">
+                            <path d="M0,1 L755.095358,1"></path>
+                            <path d="M0,9 L755.095358,9"></path>
+                            <path d="M0,17 L755.095358,17"></path>
+                            <path d="M0,25 L755.095358,25"></path>
+                            <path d="M0,33 L755.095358,33"></path>
+                            <path d="M0,41 L755.095358,41"></path>
+                            <path d="M0,49 L755.095358,49"></path>
+                            <path d="M0,57 L755.095358,57"></path>
+                            <path d="M0,65 L755.095358,65"></path>
+                            <path d="M0,73 L755.095358,73"></path>
+                            <path d="M0,81 L755.095358,81"></path>
+                            <path d="M0,89 L755.095358,89"></path>
+                            <path d="M0,97 L755.095358,97"></path>
+                            <path d="M0,105 L755.095358,105"></path>
+                            <path d="M0,113 L755.095358,113"></path>
+                            <path d="M0,121 L755.095358,121"></path>
+                            <path d="M0,129 L755.095358,129"></path>
+                            <path d="M0,137 L755.095358,137"></path>
+                            <path d="M0,145 L755.095358,145"></path>
+                            <path d="M0,153 L755.095358,153"></path>
+                            <path d="M0,161 L755.095358,161"></path>
+                            <path d="M0,169 L755.095358,169"></path>
+                            <path d="M0,177 L755.095358,177"></path>
+                            <path d="M0,185 L755.095358,185"></path>
+                            <path d="M0,193 L755.095358,193"></path>
+                            <path d="M0,201 L755.095358,201"></path>
+                            <path d="M0,209 L755.095358,209"></path>
+                            <path d="M0,217 L755.095358,217"></path>
+                            <path d="M0,225 L755.095358,225"></path>
+                            <path d="M0,233 L755.095358,233"></path>
+                            <path d="M0,241 L755.095358,241"></path>
+                            <path d="M0,249 L755.095358,249"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M240.3506,222.4707 L683.0206,222.4707" id="Stroke-1" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Group-8" transform="translate(234.000000, 212.941900)" stroke-linecap="round" stroke-width="2" stroke="#000000" stroke-linejoin="round">
+                    <polygon id="Stroke-2" points="0 18.7119 7.648 9.5289 0 0.3449 22.662 0.3449 30.312 9.5289 22.662 18.7119"></polygon>
+                    <polyline id="Stroke-4" points="14.8574 0.3452 22.5064 9.5292 14.8574 18.7122"></polyline>
+                    <polyline id="Stroke-6" points="7.3506 0.3452 14.9996 9.5292 7.3506 18.7122"></polyline>
+                </g>
+                <path d="M680.5098,216.0308 L698.5388,222.4708 L685.8738,222.4708 L680.5098,216.0308 Z M705.5958,222.4708 L672.0808,210.4998 L682.0518,222.4708 L672.0808,234.4418 L705.5958,222.4708 Z" id="Fill-9" fill="#000000"></path>
+                <path d="M680.5098,216.0308 L698.5388,222.4708 L685.8738,222.4708 L680.5098,216.0308 Z M705.5958,222.4708 L672.0808,210.4998 L682.0518,222.4708 L672.0808,234.4418 L705.5958,222.4708 Z" id="Stroke-10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M460,226.601 L460,218" id="Stroke-12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M465,226.601 L465,218" id="Stroke-13" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M470,226.601 L470,218" id="Stroke-14" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Page-1-Copy" transform="translate(470.000000, 305.500000) scale(-1, 1) translate(-470.000000, -305.500000) translate(234.000000, 293.000000)">
+                    <path d="M6.3506,12.4707 L449.0206,12.4707" id="Stroke-1" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group-8" transform="translate(0.000000, 2.941900)" stroke-linecap="round" stroke-width="2" stroke="#000000" stroke-linejoin="round">
+                        <polygon id="Stroke-2" points="0 18.7119 7.648 9.5289 0 0.3449 22.662 0.3449 30.312 9.5289 22.662 18.7119"></polygon>
+                        <polyline id="Stroke-4" points="14.8574 0.3452 22.5064 9.5292 14.8574 18.7122"></polyline>
+                        <polyline id="Stroke-6" points="7.3506 0.3452 14.9996 9.5292 7.3506 18.7122"></polyline>
+                    </g>
+                    <path d="M446.5098,6.0308 L464.5388,12.4708 L451.8738,12.4708 L446.5098,6.0308 Z M471.5958,12.4708 L438.0808,0.4998 L448.0518,12.4708 L438.0808,24.4418 L471.5958,12.4708 Z" id="Fill-9" fill="#000000"></path>
+                    <path d="M446.5098,6.0308 L464.5388,12.4708 L451.8738,12.4708 L446.5098,6.0308 Z M471.5958,12.4708 L438.0808,0.4998 L448.0518,12.4708 L438.0808,24.4418 L471.5958,12.4708 Z" id="Stroke-10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M235,16.601 L235,8" id="Stroke-12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M240,16.601 L240,8" id="Stroke-13" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M245,16.601 L245,8" id="Stroke-14" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

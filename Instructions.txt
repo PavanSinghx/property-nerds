@@ -1,0 +1,36 @@
+What is Expected:
+1. FRAMEWORK:
+You may use a framework of your choice. The attached layout is using the grid 960 framework.
+
+2. MOBI RESPONSIVE:
+Yes, you will need to cater for mobile devices based on this layout.
+
+3. LAYOUT: The final result should look the same as the homepage.png provided. Attention to detail is key!
+
+4. KEY POINTS:
+Header
+ - Slider: 
+Will need to rotate between the 2 images every 5 seconds.
+ - Search Bar:
+ The Form doesn't need to function, but will need you to style all the visible form elements.
+Body
+ - Featured Properties:  Will need to apply hover effects.
+ - Content Ad:
+ Will need to apply some animation. Either using CSS or jQuery ect...
+
+5. BONUS QUESTION:
+-------------------------------
+if x = 10
+while x is greater than 10
+    print x
+
+How many times will x print?
+-------------------------------
+
+
+
+If you have any questions please contact me on.
+
+Office: 031 266 0035
+Email: julian@propdata.net
+
