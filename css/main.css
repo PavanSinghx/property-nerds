@@ -1,5 +1,6 @@
-* {
-    box-sizing: border-box;
+@font-face {
+    font-family: "BEBAS";
+    src: url(../fonts/BEBAS.ttf);
 }
 
 .header {
@@ -9,8 +10,6 @@
     opacity: 0.9;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
 }
-
-.header-items {}
 
 .header-container {
     width: 100%;
@@ -23,50 +22,73 @@
     position: absolute;
 }
 
-.col-1 {
-    width: 8.33%;
+.logo {
+    height: 155px;
+    width: 115px;
+    background: url(../assets/logo.png);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 1%;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 
-.col-2 {
-    width: 16.66%;
-}
-
-.col-3 {
-    width: 25%;
-}
-
-.col-4 {
-    width: 33.33%;
-}
-
-.col-5 {
-    width: 41.66%;
-}
-
-.col-6 {
-    width: 50%;
-}
-
-.col-7 {
-    width: 58.33%;
-}
-
-.col-8 {
-    width: 66.66%;
-}
-
-.col-9 {
-    width: 75%;
-}
-
-.col-10 {
-    width: 83.33%;
-}
-
-.col-11 {
-    width: 91.66%;
-}
-
-.col-12 {
+.items-container {
     width: 100%;
+    height: 145px;
+    position: absolute;
+    top: 1%;
+    left: 0%;
+}
+
+.header-item {
+    position: absolute;
+    top: 31%;
+    font-size: 15px;
+    font-family: "BEBAS";
+    font-weight: bold;
+    padding: 6px;
+}
+
+.header-item-active {
+    border-radius: 6px;
+    border-color: black;
+    border: 1px solid;
+}
+
+.left-1 {
+    left: 320px;
+}
+
+.left-2 {
+    left: 402px;
+}
+
+.left-3 {
+    left: 572px;
+}
+
+.right-1 {
+    right: 360px;
+}
+
+.right-2 {
+    right: 468px;
+}
+
+.right-3 {
+    right: 556px;
+}
+
+.search-bar {
+    width: 1000px;
+    height: 140px;
+    bottom: 60px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.3);
+    left: 0%;
+    right: 0%;
+    margin: auto;
 }
