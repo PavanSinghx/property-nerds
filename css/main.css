@@ -3,6 +3,10 @@
     src: url(../fonts/BEBAS.ttf);
 }
 
+.html {
+    font-family: "Lato", Helvetica, sans-serif;
+}
+
 .header {
     height: 155px;
     width: 100%;
@@ -91,4 +95,163 @@
     left: 0%;
     right: 0%;
     margin: auto;
+    padding: 35px;
+    box-sizing: border-box;
+}
+
+.dropdown-rent {
+    padding-left: 6px;
+    width: 90px;
+    height: 29px;
+    bottom: 50px;
+    border-color: white;
+    color: #444;
+    box-sizing: border-box;
+}
+
+.dropdown-option {
+    padding: 2px;
+}
+
+.dropdown-residential {
+    padding-left: 6px;
+    width: 330px;
+    height: 29px;
+    bottom: 50px;
+    border-color: white;
+    color: #444;
+    box-sizing: border-box;
+}
+
+.input-suburb {
+    padding-left: 6px;
+    width: 490px;
+    height: 29px;
+    box-sizing: border-box;
+}
+
+.search-pad {
+    padding-right: 6px;
+    display: inline;
+}
+
+.search-pad-top {
+    padding-top: 10px;
+}
+
+.hashtag {
+    display: inline;
+    font-family: "BEBAS";
+    padding-right: 4px;
+}
+
+.web-ref {
+    padding: 7px 10px 7px 10px;
+    box-sizing: border-box;
+    border-color: white;
+    color: white;
+    border: 1px solid;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 15px;
+    float: left;
+}
+
+.search {
+    padding: 8px 8px 6px 10px;
+    box-sizing: border-box;
+    border-color: white;
+    color: white;
+    border: 3px solid;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+}
+
+.search-icon {
+    width: 16px;
+    height: 16px;
+    background: url(../assets/search.svg);
+    background-size: cover;
+    float: left;
+}
+
+.more-search {
+    padding: 7px 10px 7px 10px;
+    box-sizing: border-box;
+    border-color: white;
+    color: white;
+    border: 1px solid;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+}
+
+.prop-text {
+    padding: 10px 10px 8px 10px;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 15px;
+    float: right;
+}
+
+.prop-container {
+    width: 62.5%;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    bottom: -260px;
+    position: absolute;
+    height: 230px;
+    background: url(http://placehold.it/1000);
+    background-size: cover;
+}
+
+.prop-header {
+    left: 0%;
+    top: 0%;
+    font-family: "Lato", Helvetica, sans-serif;
+    font-size: 12px;
+    position: relative;
+}
+
+.prop-title {
+    left: 0%;
+    font-family: "BEBAS";
+    line-height: 0px;
+    padding-bottom: 35px;
+    display: block;
+}
+
+.prop-icons {
+    float: right;
+    width: 58px;
+    height: 48px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-color: #999999;
+    color: #999999;
+    border: 1px solid;
+}
+
+.more {
+    bottom: 0%;
+    right: 0%;
+    font-size: 15px;
+    font-family: "BEBAS";
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.featured-prop {
+    width: 62.5%;
+    left: 0%;
+    right: 0%;
+    margin: auto;
+    bottom: -500px;
+    position: absolute;
+    height: 230px;
+    background: url(http://placehold.it/1000);
+    background-size: cover;
 }
