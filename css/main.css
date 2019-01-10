@@ -180,6 +180,11 @@
     float: left;
 }
 
+.search-pad-1 {
+    padding: 6px;
+    float: right;
+}
+
 .search {
     padding: 8px 8px 6px 10px;
     box-sizing: border-box;
@@ -272,11 +277,21 @@ i {
 }
 
 .down {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
 }
 
 .more {
+    bottom: 0%;
+    right: 0%;
+    font-size: 15px;
+    font-family: "BEBAS";
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.more-1 {
     bottom: 0%;
     right: 0%;
     font-size: 15px;

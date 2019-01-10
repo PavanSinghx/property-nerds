@@ -194,6 +194,7 @@
     float: right;
     width: 35%;
     text-align: center;
+    position: relative;
 }
 
 .search-icon {
@@ -216,6 +217,7 @@
     float: left;
     width: 60%;
     text-align: center;
+    position: relative;
 }
 
 .prop-text {
@@ -279,11 +281,29 @@ i {
 }
 
 .down {
-    transform: rotate(45deg);
-    -webkit-transform: rotate(45deg);
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.search-pad-1 {
+    padding: 6px;
+    float: right;
+    width: 100%;
 }
 
 .more {
+    width: 100%;
+    text-align: center;
+    bottom: 0%;
+    right: 0%;
+    font-size: 15px;
+    font-family: "BEBAS";
+    padding: 6px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.more-1 {
     width: 100%;
     text-align: center;
     bottom: 0%;
