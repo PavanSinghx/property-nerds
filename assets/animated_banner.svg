@@ -1,0 +1,125 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="940px" height="367px" viewBox="0 0 940 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.4296875,0.3515625L252.429688,21.3515625L0,113Z" class="LuAvlVKE_0"></path>
+        <path id="path-3" d="M0,0L453,0L0,141Z" class="LuAvlVKE_1"></path>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage-Copy" transform="translate(-250.000000, -1441.000000)">
+            <g id="banner" transform="translate(250.000000, 1441.000000)">
+                <path id="Rectangle-17" stroke="#000000" width="908.242187" height="334" d="M15.5 10.5 L923.742187 10.5 L923.742187 344.5 L15.5 344.5 Z" class="LuAvlVKE_2"></path>
+                <g id="Group-2-Copy" transform="translate(813.500000, 310.500000) rotate(-180.000000) translate(-813.500000, -310.500000) translate(687.000000, 254.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="Group-2" mask="url(#mask-2)" stroke="#000000">
+                        <g transform="translate(141.710938, 20.417969) rotate(-210.000000) translate(-141.710938, -20.417969) translate(-236.289062, -104.582031)" id="Path-3">
+                            <path d="M0,1 L755.095358,1" class="LuAvlVKE_3"></path>
+                            <path d="M0,9 L755.095358,9" class="LuAvlVKE_4"></path>
+                            <path d="M0,17 L755.095358,17" class="LuAvlVKE_5"></path>
+                            <path d="M0,25 L755.095358,25" class="LuAvlVKE_6"></path>
+                            <path d="M0,33 L755.095358,33" class="LuAvlVKE_7"></path>
+                            <path d="M0,41 L755.095358,41" class="LuAvlVKE_8"></path>
+                            <path d="M0,49 L755.095358,49" class="LuAvlVKE_9"></path>
+                            <path d="M0,57 L755.095358,57" class="LuAvlVKE_10"></path>
+                            <path d="M0,65 L755.095358,65" class="LuAvlVKE_11"></path>
+                            <path d="M0,73 L755.095358,73" class="LuAvlVKE_12"></path>
+                            <path d="M0,81 L755.095358,81" class="LuAvlVKE_13"></path>
+                            <path d="M0,89 L755.095358,89" class="LuAvlVKE_14"></path>
+                            <path d="M0,97 L755.095358,97" class="LuAvlVKE_15"></path>
+                            <path d="M0,105 L755.095358,105" class="LuAvlVKE_16"></path>
+                            <path d="M0,113 L755.095358,113" class="LuAvlVKE_17"></path>
+                            <path d="M0,121 L755.095358,121" class="LuAvlVKE_18"></path>
+                            <path d="M0,129 L755.095358,129" class="LuAvlVKE_19"></path>
+                            <path d="M0,137 L755.095358,137" class="LuAvlVKE_20"></path>
+                            <path d="M0,145 L755.095358,145" class="LuAvlVKE_21"></path>
+                            <path d="M0,153 L755.095358,153" class="LuAvlVKE_22"></path>
+                            <path d="M0,161 L755.095358,161" class="LuAvlVKE_23"></path>
+                            <path d="M0,169 L755.095358,169" class="LuAvlVKE_24"></path>
+                            <path d="M0,177 L755.095358,177" class="LuAvlVKE_25"></path>
+                            <path d="M0,185 L755.095358,185" class="LuAvlVKE_26"></path>
+                            <path d="M0,193 L755.095358,193" class="LuAvlVKE_27"></path>
+                            <path d="M0,201 L755.095358,201" class="LuAvlVKE_28"></path>
+                            <path d="M0,209 L755.095358,209" class="LuAvlVKE_29"></path>
+                            <path d="M0,217 L755.095358,217" class="LuAvlVKE_30"></path>
+                            <path d="M0,225 L755.095358,225" class="LuAvlVKE_31"></path>
+                            <path d="M0,233 L755.095358,233" class="LuAvlVKE_32"></path>
+                            <path d="M0,241 L755.095358,241" class="LuAvlVKE_33"></path>
+                            <path d="M0,249 L755.095358,249" class="LuAvlVKE_34"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g mask="url(#mask-4)" id="Path-3" stroke="#000000">
+                        <g transform="translate(141.710938, 48.417969) rotate(-210.000000) translate(-141.710938, -48.417969) translate(-236.289062, -76.582031)">
+                            <path d="M0,1 L755.095358,1" class="LuAvlVKE_35"></path>
+                            <path d="M0,9 L755.095358,9" class="LuAvlVKE_36"></path>
+                            <path d="M0,17 L755.095358,17" class="LuAvlVKE_37"></path>
+                            <path d="M0,25 L755.095358,25" class="LuAvlVKE_38"></path>
+                            <path d="M0,33 L755.095358,33" class="LuAvlVKE_39"></path>
+                            <path d="M0,41 L755.095358,41" class="LuAvlVKE_40"></path>
+                            <path d="M0,49 L755.095358,49" class="LuAvlVKE_41"></path>
+                            <path d="M0,57 L755.095358,57" class="LuAvlVKE_42"></path>
+                            <path d="M0,65 L755.095358,65" class="LuAvlVKE_43"></path>
+                            <path d="M0,73 L755.095358,73" class="LuAvlVKE_44"></path>
+                            <path d="M0,81 L755.095358,81" class="LuAvlVKE_45"></path>
+                            <path d="M0,89 L755.095358,89" class="LuAvlVKE_46"></path>
+                            <path d="M0,97 L755.095358,97" class="LuAvlVKE_47"></path>
+                            <path d="M0,105 L755.095358,105" class="LuAvlVKE_48"></path>
+                            <path d="M0,113 L755.095358,113" class="LuAvlVKE_49"></path>
+                            <path d="M0,121 L755.095358,121" class="LuAvlVKE_50"></path>
+                            <path d="M0,129 L755.095358,129" class="LuAvlVKE_51"></path>
+                            <path d="M0,137 L755.095358,137" class="LuAvlVKE_52"></path>
+                            <path d="M0,145 L755.095358,145" class="LuAvlVKE_53"></path>
+                            <path d="M0,153 L755.095358,153" class="LuAvlVKE_54"></path>
+                            <path d="M0,161 L755.095358,161" class="LuAvlVKE_55"></path>
+                            <path d="M0,169 L755.095358,169" class="LuAvlVKE_56"></path>
+                            <path d="M0,177 L755.095358,177" class="LuAvlVKE_57"></path>
+                            <path d="M0,185 L755.095358,185" class="LuAvlVKE_58"></path>
+                            <path d="M0,193 L755.095358,193" class="LuAvlVKE_59"></path>
+                            <path d="M0,201 L755.095358,201" class="LuAvlVKE_60"></path>
+                            <path d="M0,209 L755.095358,209" class="LuAvlVKE_61"></path>
+                            <path d="M0,217 L755.095358,217" class="LuAvlVKE_62"></path>
+                            <path d="M0,225 L755.095358,225" class="LuAvlVKE_63"></path>
+                            <path d="M0,233 L755.095358,233" class="LuAvlVKE_64"></path>
+                            <path d="M0,241 L755.095358,241" class="LuAvlVKE_65"></path>
+                            <path d="M0,249 L755.095358,249" class="LuAvlVKE_66"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M240.3506,222.4707 L683.0206,222.4707" id="Stroke-1" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_67"></path>
+                <g id="Group-8" transform="translate(234.000000, 212.941900)" stroke-linecap="round" stroke-width="2" stroke="#000000" stroke-linejoin="round">
+                    <path id="Stroke-2" d="M0,18.7119L7.648,9.5289L0,0.3449L22.662,0.3449L30.312,9.5289L22.662,18.7119Z" class="LuAvlVKE_68"></path>
+                    <path id="Stroke-4" d="M14.8574,0.3452L22.5064,9.5292L14.8574,18.7122" class="LuAvlVKE_69"></path>
+                    <path id="Stroke-6" d="M7.3506,0.3452L14.9996,9.5292L7.3506,18.7122" class="LuAvlVKE_70"></path>
+                </g>
+                <path d="M680.5098,216.0308 L698.5388,222.4708 L685.8738,222.4708 L680.5098,216.0308 Z M705.5958,222.4708 L672.0808,210.4998 L682.0518,222.4708 L672.0808,234.4418 L705.5958,222.4708 Z" id="Fill-9" fill="#000000" class="LuAvlVKE_71"></path>
+                <path d="M680.5098,216.0308 L698.5388,222.4708 L685.8738,222.4708 L680.5098,216.0308 Z M705.5958,222.4708 L672.0808,210.4998 L682.0518,222.4708 L672.0808,234.4418 L705.5958,222.4708 Z" id="Stroke-10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_72"></path>
+                <path d="M460,226.601 L460,218" id="Stroke-12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_73"></path>
+                <path d="M465,226.601 L465,218" id="Stroke-13" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_74"></path>
+                <path d="M470,226.601 L470,218" id="Stroke-14" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_75"></path>
+                <g id="Page-1-Copy" transform="translate(470.000000, 305.500000) scale(-1, 1) translate(-470.000000, -305.500000) translate(234.000000, 293.000000)">
+                    <path d="M6.3506,12.4707 L449.0206,12.4707" id="Stroke-1" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_76"></path>
+                    <g id="Group-8" transform="translate(0.000000, 2.941900)" stroke-linecap="round" stroke-width="2" stroke="#000000" stroke-linejoin="round">
+                        <path id="Stroke-2" d="M0,18.7119L7.648,9.5289L0,0.3449L22.662,0.3449L30.312,9.5289L22.662,18.7119Z" class="LuAvlVKE_77"></path>
+                        <path id="Stroke-4" d="M14.8574,0.3452L22.5064,9.5292L14.8574,18.7122" class="LuAvlVKE_78"></path>
+                        <path id="Stroke-6" d="M7.3506,0.3452L14.9996,9.5292L7.3506,18.7122" class="LuAvlVKE_79"></path>
+                    </g>
+                    <path d="M446.5098,6.0308 L464.5388,12.4708 L451.8738,12.4708 L446.5098,6.0308 Z M471.5958,12.4708 L438.0808,0.4998 L448.0518,12.4708 L438.0808,24.4418 L471.5958,12.4708 Z" id="Fill-9" fill="#000000" class="LuAvlVKE_80"></path>
+                    <path d="M446.5098,6.0308 L464.5388,12.4708 L451.8738,12.4708 L446.5098,6.0308 Z M471.5958,12.4708 L438.0808,0.4998 L448.0518,12.4708 L438.0808,24.4418 L471.5958,12.4708 Z" id="Stroke-10" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_81"></path>
+                    <path d="M235,16.601 L235,8" id="Stroke-12" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_82"></path>
+                    <path d="M240,16.601 L240,8" id="Stroke-13" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_83"></path>
+                    <path d="M245,16.601 L245,8" id="Stroke-14" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="LuAvlVKE_84"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+<style data-made-with="vivus-instant">.LuAvlVKE_0{stroke-dasharray:635 637;stroke-dashoffset:636;animation:LuAvlVKE_draw 2000ms linear 0ms forwards;}.LuAvlVKE_1{stroke-dasharray:1069 1071;stroke-dashoffset:1070;animation:LuAvlVKE_draw 2000ms linear 11ms forwards;}.LuAvlVKE_2{stroke-dasharray:2485 2487;stroke-dashoffset:2486;animation:LuAvlVKE_draw 2000ms linear 23ms forwards;}.LuAvlVKE_3{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 35ms forwards;}.LuAvlVKE_4{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 47ms forwards;}.LuAvlVKE_5{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 59ms forwards;}.LuAvlVKE_6{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 71ms forwards;}.LuAvlVKE_7{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 83ms forwards;}.LuAvlVKE_8{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 95ms forwards;}.LuAvlVKE_9{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 107ms forwards;}.LuAvlVKE_10{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 119ms forwards;}.LuAvlVKE_11{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 130ms forwards;}.LuAvlVKE_12{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 142ms forwards;}.LuAvlVKE_13{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 154ms forwards;}.LuAvlVKE_14{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 166ms forwards;}.LuAvlVKE_15{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 178ms forwards;}.LuAvlVKE_16{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 190ms forwards;}.LuAvlVKE_17{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 202ms forwards;}.LuAvlVKE_18{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 214ms forwards;}.LuAvlVKE_19{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 226ms forwards;}.LuAvlVKE_20{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 238ms forwards;}.LuAvlVKE_21{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 250ms forwards;}.LuAvlVKE_22{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 261ms forwards;}.LuAvlVKE_23{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 273ms forwards;}.LuAvlVKE_24{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 285ms forwards;}.LuAvlVKE_25{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 297ms forwards;}.LuAvlVKE_26{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 309ms forwards;}.LuAvlVKE_27{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 321ms forwards;}.LuAvlVKE_28{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 333ms forwards;}.LuAvlVKE_29{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 345ms forwards;}.LuAvlVKE_30{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 357ms forwards;}.LuAvlVKE_31{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 369ms forwards;}.LuAvlVKE_32{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 380ms forwards;}.LuAvlVKE_33{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 392ms forwards;}.LuAvlVKE_34{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 404ms forwards;}.LuAvlVKE_35{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 416ms forwards;}.LuAvlVKE_36{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 428ms forwards;}.LuAvlVKE_37{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 440ms forwards;}.LuAvlVKE_38{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 452ms forwards;}.LuAvlVKE_39{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 464ms forwards;}.LuAvlVKE_40{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 476ms forwards;}.LuAvlVKE_41{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 488ms forwards;}.LuAvlVKE_42{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 500ms forwards;}.LuAvlVKE_43{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 511ms forwards;}.LuAvlVKE_44{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 523ms forwards;}.LuAvlVKE_45{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 535ms forwards;}.LuAvlVKE_46{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 547ms forwards;}.LuAvlVKE_47{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 559ms forwards;}.LuAvlVKE_48{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 571ms forwards;}.LuAvlVKE_49{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 583ms forwards;}.LuAvlVKE_50{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 595ms forwards;}.LuAvlVKE_51{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 607ms forwards;}.LuAvlVKE_52{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 619ms forwards;}.LuAvlVKE_53{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 630ms forwards;}.LuAvlVKE_54{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 642ms forwards;}.LuAvlVKE_55{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 654ms forwards;}.LuAvlVKE_56{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 666ms forwards;}.LuAvlVKE_57{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 678ms forwards;}.LuAvlVKE_58{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 690ms forwards;}.LuAvlVKE_59{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 702ms forwards;}.LuAvlVKE_60{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 714ms forwards;}.LuAvlVKE_61{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 726ms forwards;}.LuAvlVKE_62{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 738ms forwards;}.LuAvlVKE_63{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 750ms forwards;}.LuAvlVKE_64{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 761ms forwards;}.LuAvlVKE_65{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 773ms forwards;}.LuAvlVKE_66{stroke-dasharray:756 758;stroke-dashoffset:757;animation:LuAvlVKE_draw 2000ms linear 785ms forwards;}.LuAvlVKE_67{stroke-dasharray:443 445;stroke-dashoffset:444;animation:LuAvlVKE_draw 2000ms linear 797ms forwards;}.LuAvlVKE_68{stroke-dasharray:94 96;stroke-dashoffset:95;animation:LuAvlVKE_draw 2000ms linear 809ms forwards;}.LuAvlVKE_69{stroke-dasharray:24 26;stroke-dashoffset:25;animation:LuAvlVKE_draw 2000ms linear 821ms forwards;}.LuAvlVKE_70{stroke-dasharray:24 26;stroke-dashoffset:25;animation:LuAvlVKE_draw 2000ms linear 833ms forwards;}.LuAvlVKE_71{stroke-dasharray:143 145;stroke-dashoffset:144;animation:LuAvlVKE_draw 2000ms linear 845ms forwards;}.LuAvlVKE_72{stroke-dasharray:143 145;stroke-dashoffset:144;animation:LuAvlVKE_draw 2000ms linear 857ms forwards;}.LuAvlVKE_73{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 869ms forwards;}.LuAvlVKE_74{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 880ms forwards;}.LuAvlVKE_75{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 892ms forwards;}.LuAvlVKE_76{stroke-dasharray:443 445;stroke-dashoffset:444;animation:LuAvlVKE_draw 2000ms linear 904ms forwards;}.LuAvlVKE_77{stroke-dasharray:94 96;stroke-dashoffset:95;animation:LuAvlVKE_draw 2000ms linear 916ms forwards;}.LuAvlVKE_78{stroke-dasharray:24 26;stroke-dashoffset:25;animation:LuAvlVKE_draw 2000ms linear 928ms forwards;}.LuAvlVKE_79{stroke-dasharray:24 26;stroke-dashoffset:25;animation:LuAvlVKE_draw 2000ms linear 940ms forwards;}.LuAvlVKE_80{stroke-dasharray:143 145;stroke-dashoffset:144;animation:LuAvlVKE_draw 2000ms linear 952ms forwards;}.LuAvlVKE_81{stroke-dasharray:143 145;stroke-dashoffset:144;animation:LuAvlVKE_draw 2000ms linear 964ms forwards;}.LuAvlVKE_82{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 976ms forwards;}.LuAvlVKE_83{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 988ms forwards;}.LuAvlVKE_84{stroke-dasharray:9 11;stroke-dashoffset:10;animation:LuAvlVKE_draw 2000ms linear 1000ms forwards;}@keyframes LuAvlVKE_draw{100%{stroke-dashoffset:0;}}@keyframes LuAvlVKE_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

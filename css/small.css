@@ -11,6 +11,8 @@
 .header {
     height: 250px;
     width: 100%;
+    top: 0px;
+    left: 0px;
     background-color: white;
     opacity: 0.9;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
@@ -424,7 +426,7 @@ i {
     height: 100%;
     top: 0;
     left: 0;
-    background: url(../assets/banner.svg);
+    background: url(../assets/animated_banner.svg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -441,6 +443,7 @@ i {
     background-size: cover;
     background-position: center;
     position: absolute;
+    display: none;
 }
 
 .call-text {
