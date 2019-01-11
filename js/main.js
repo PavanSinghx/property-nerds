@@ -1,8 +1,26 @@
 $(document).ready(function () {
 
     let state = 1;
-
     startBanner();
+
+    //feat block left
+    $(".feat-img-1").hover(function () {
+        $(this).removeClass("feat-img-1");
+        $(this).addClass("overlay-1");
+        //$(".call").fadeIn(5000);
+    }, function () {
+        $(this).removeClass("overlay-1");
+        $(this).addClass("feat-img-1");
+    });
+
+    $(".feat-img-2").hover(function () {
+        $(this).removeClass("feat-img-2");
+        $(this).addClass("overlay-1");
+        //$(".call").fadeIn(5000);
+    }, function () {
+        $(this).removeClass("overlay-1");
+        $(this).addClass("feat-img-2");
+    });
 
     $(".header-item-left").hover(function () {
 
