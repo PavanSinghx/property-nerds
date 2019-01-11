@@ -1,4 +1,28 @@
+function determineMobileCSS() {
+    let x = window.outerWidth;
+    let y = window.outerHeight;
+    if (x <= 1000 && x > y) {
+        return "small-landscape.css";
+    } else if (x <= 1000 && y > x) {
+        return "small.css";
+    } else if (x > 1000) {
+        return "main.css";
+    } else {
+        return "small.css";
+    }
+}
+
+function reloadCSS() {
+    document.getElementById("loadCSS").href = "css/" + determineMobileCSS();
+}
+
 $(document).ready(function () {
+
+    reloadCSS();
+
+    window.addEventListener("orientationchange", function () {
+        reloadCSS();
+    });
 
     let state = 1;
     startBanner();
