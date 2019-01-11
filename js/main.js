@@ -1,6 +1,8 @@
 function determineMobileCSS() {
-    let x = window.outerWidth;
-    let y = window.outerHeight;
+    let x = window.outerWidth > window.innerWidth ? window.innerWidth : window.outerWidth;
+    let y = window.outerHeight > window.innnerHeight ? window.innerHeight : window.outerHeight;
+    console.log(x + "  " + y);
+
     if (x <= 1000 && x > y) {
         return "small-landscape.css";
     } else if (x <= 1000 && y > x) {
@@ -21,7 +23,9 @@ $(document).ready(function () {
     reloadCSS();
 
     window.addEventListener("orientationchange", function () {
-        reloadCSS();
+        this.setTimeout(() => {
+            reloadCSS();
+        }, 10);
     });
 
     let state = 1;
